@@ -1,1 +1,1 @@
-# PHP-appllications
+# PHP-applications
